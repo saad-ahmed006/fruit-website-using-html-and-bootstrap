@@ -1,0 +1,23 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+    font-size: 20px;
+    margin-left: 20px;
+}
+.navbar-dark .navbar-nav .nav-link.active:hover{
+    color: aqua;
+}
+
+
+.w-100 {
+    width: 100%!important;
+    height: 500px;
+    
+}
+.d-md-block {
+    display: block!important;
+    /* font-size: 30px; */
+color: black;
+}
+/* .btn{
+    color: black;
+} */
